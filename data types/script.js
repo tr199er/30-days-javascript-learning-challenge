@@ -33,3 +33,11 @@ var sister = "dami",
   brother = "hayatu",
   uncle = "yemi";
 var quoteWithTick = `hello there "hayatu"`;
+
+var stringConcat = firstName + " " + lastName + " " + "of" + " " + city; //String concatenation
+console.log(stringConcat);
+
+var helloWorld = `my name is ${firstName}`; // temperal lateral is used to get a value assigned to a variable.
+console.log(helloWorld);
+
+console.log(country.length);

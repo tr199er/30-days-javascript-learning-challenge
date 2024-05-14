@@ -99,3 +99,4 @@ console.log(sentBecause.search("because"));
 console.log(challenge.trim());
 console.log(challenge.startsWith(30));
 console.log(challenge.endsWith("Javascript"));
+console.log(challenge.match("a"));

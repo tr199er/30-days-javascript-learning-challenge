@@ -16,28 +16,62 @@
  * */
 
 //Numbers
-var numRand = Math.random();
-var calcs = numRand * 100;
-var calc = Math.floor(calcs);
+// var numRand = Math.random();
+// var calcs = numRand * 100;
+// var calc = Math.floor(calcs);
 
-console.log(calc);
+// console.log(calc);
 
 //String
-var firstName = "Malik";
-var lastName = "Akanni";
-var country = "Nigeria";
-var city = "Lagos";
-var age = 23;
-var isMarried = false;
-var sister = "dami",
-  brother = "hayatu",
-  uncle = "yemi";
-var quoteWithTick = `hello there "hayatu"`;
+// var firstName = "Malik";
+// var lastName = "Akanni";
+// var country = "Nigeria";
+// var city = "Lagos";
+// var age = 23;
+// var isMarried = false;
+// var sister = "dami",
+//   brother = "hayatu",
+//   uncle = "yemi";
+// var quoteWithTick = `hello there "hayatu"`;
 
-var stringConcat = firstName + " " + lastName + " " + "of" + " " + city; //String concatenation
-console.log(stringConcat);
+// var stringConcat = firstName + " " + lastName + " " + "of" + " " + city; //String concatenation
+// console.log(stringConcat);
 
-var helloWorld = `my name is ${firstName}`; // temperal lateral is used to get a value assigned to a variable.
-console.log(helloWorld);
+// var helloWorld = `my name is ${firstName}`; // temperal lateral is used to get a value assigned to a variable.
+// console.log(helloWorld);
 
-console.log(country.length);
+// console.log(country.length);
+
+//PROJECT
+// alert("this is a love calculator web app");
+
+// var guyName = prompt("Input the guy name");
+// var ladyName = prompt("Input the lady name");
+
+// alert("Please wait... Calculatation in progress");
+
+// var firstResult = Math.random();
+// var secondResult = firstResult * 100;
+// var finalResult = Math.floor(secondResult);
+
+// alert(
+//   `The love percentage between ${guyName} and ${ladyName} is ${finalResult}`
+// );
+
+// console.log(finalResult);
+
+// var hey = Math.random();
+// console.log(hey);
+
+// hey = Math.floor(Math.random() * 100);
+// console.log(hey);
+
+let a = 3;
+let b = 9;
+
+console.log(`the sum of ${a} and ${b} is ${a + b}`);
+
+//EXERCISE   EXERCISE   EXERCISE
+var challenge = "30 Days Of Javascript";
+console.log(challenge);
+console.log(challenge.length);

@@ -75,3 +75,27 @@ console.log(`the sum of ${a} and ${b} is ${a + b}`);
 var challenge = "30 Days Of Javascript";
 console.log(challenge);
 console.log(challenge.length);
+console.log(challenge.toUpperCase());
+console.log(challenge.toLowerCase());
+console.log(challenge.substring(3, 7));
+console.log(challenge.substring(3, challenge.length));
+
+console.log(challenge.includes("script"));
+var splChallenge = "script";
+console.log(splChallenge.split());
+console.log(challenge.split());
+let socioMedia = "Facebook, Google, Microsoft, Apple, IBM, Oracle, Amazon";
+console.log(socioMedia.split(", "));
+console.log(challenge.replace("Javascript", "Phyton"));
+console.log(challenge.charAt(15));
+console.log(challenge.charCodeAt("J"));
+console.log(challenge.indexOf("a"));
+console.log(challenge.lastIndexOf("a"));
+let sentBecause =
+  "You cannot end a sentence with because because because is a conjunction";
+console.log(sentBecause.indexOf("because"));
+console.log(sentBecause.lastIndexOf("because"));
+console.log(sentBecause.search("because"));
+console.log(challenge.trim());
+console.log(challenge.startsWith(30));
+console.log(challenge.endsWith("Javascript"));

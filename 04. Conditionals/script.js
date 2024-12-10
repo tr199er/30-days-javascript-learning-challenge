@@ -21,7 +21,7 @@ let takeAge = 13;
 if (takeAge > 18) {
   console.log(`${takeAge} is an adult age`);
 } else {
-  console.log(`given ur age of ${takeAge} you're still a kid`);
+  console.log(`given ur age of ${takeAge}, you're still a kid`);
 }
 
 //COMBINATION OF PROMPT, ALERT AND IF/ELSE

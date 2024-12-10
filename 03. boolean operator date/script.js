@@ -50,3 +50,5 @@ alert("Welcome to day 3 of javascript learning challenge" + " " + boyName);
 confirm(boyName + " " + "Is that ur name?");
 
 console.log(boyName);
+
+

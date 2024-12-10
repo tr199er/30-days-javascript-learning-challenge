@@ -13,15 +13,16 @@ console.log(arr.length);
 // console.log(carr);
 
 //WE CAN ACCESS ARRAY USING INDEXES
-/* 
+/*
 These are some of the available methods to deal with arrays:
-Array, length, concat, 
-indexOf, slice, splice, 
+Array, length, concat,
+indexOf, slice, splice,
 join, toString, includes,
 lastIndexOf, isArray, fill, 
 push, pop, shift, 
 unshift
   */
+
 
 // let empArr = array();
 // console.log(empArr);
@@ -61,8 +62,6 @@ console.log(lastList); //arranging array in accending order
 //array can store differnt type of data including an array itself
 
 const allProf = [0, 9, 8, [7, 6, 5, [4, 3, 2]], 1];
-
-
 
 
 

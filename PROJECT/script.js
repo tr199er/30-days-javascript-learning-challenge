@@ -21,7 +21,7 @@
 
 // console.log(carTwo);
 
-for (let x = 0; x <= 5; x++) {
-  console.log(x);
-}
+// for (let x = 0; x <= 5; x++) {
+//   console.log(x);
+// }
 

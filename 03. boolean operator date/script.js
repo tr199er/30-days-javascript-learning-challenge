@@ -45,10 +45,13 @@ console.log(x);
 
 //ALERT
 
-let boyName = prompt("what ur name");
-alert("Welcome to day 3 of javascript learning challenge" + " " + boyName);
-confirm(boyName + " " + "Is that ur name?");
+// let boyName = prompt("what ur name");
+// alert("Welcome to day 3 of javascript learning challenge" + " " + boyName);
+// confirm(boyName + " " + "Is that ur name?");
 
-console.log(boyName);
+// console.log(boyName);
 
 
+let count = 0
+console.log(++count)        // 1
+console.log(count)          // 1

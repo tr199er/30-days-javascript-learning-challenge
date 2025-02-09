@@ -19,7 +19,7 @@
 // indexOf, slice, splice,
 // join, toString, includes,
 // lastIndexOf, isArray, fill, 
-// push, pop, shift, 
+// push, pop, shift,
 // unshift
 //   */
 

@@ -29,18 +29,18 @@
 
 //Creating Static vale
 
-empArr = array(5); // crestes 5 empty value
-empArr = Array(5).fill("MAAZ");
+// empArr = array(5); // crestes 5 empty value
+// empArr = Array(5).fill("MAAZ");
 
-console.log(empArr);
+// console.log(empArr);
 
-//Concatenating array using concat
+// //Concatenating array using concat
 
-const firstList = ["Malik", "Maaz", "Musthapha"];
-const secondList = ["Fuad", "Aunty promise"];
+// const firstList = ["Malik", "Maaz", "Musthapha"];
+// const secondList = ["Fuad", "Aunty promise"];
 
-const lastList = firstList.concat(secondList);
-console.log(lastList);
+// const lastList = firstList.concat(secondList);
+// console.log(lastList);
 
 // console.log(lastList.length); //we use .length to get the length of an array
 // console.log(lastList.indexOf("Fuad")); //.indexOf to get the idex of an array
@@ -73,5 +73,46 @@ console.log(lastList);
 // //PROJECT
 // const coderList = [];
 
-var mid = [1,2,"D",9];
-console.log(mid);
+// var mid = [1,2,"D",9];
+// console.log(mid);
+
+
+var min = Array("malik", "fuad", "maaz");
+console.log(min);
+
+const arr = ["a","1","2"];
+console.log('arr:arr', arr.length);
+
+
+var noteBook = "hello,world";
+console.log(noteBook.split(','));
+
+
+var letGo = [
+    "help",
+    "sorry",
+    "please",
+    "forgive me",
+    "Thanks you"
+]
+var check = letGo.indexOf("pardon me ");
+if (check == -1) {
+    console.log("this item does not belong here");
+    
+} else {
+    console.log("you're at the right place");
+    
+};
+
+// console.log(letGo.length);
+// console.log(letGo[0]);
+// console.log(letGo[letGo.length - 1]);
+// console.log(letGo);
+
+
+
+
+
+
+
+const malikData = []

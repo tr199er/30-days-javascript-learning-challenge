@@ -167,6 +167,11 @@
 
 
 
-//EXERCISE LEVEL 2ss
+//EXERCISE LEVEL 2
+
+console.log(countries);
+console.log(webTechs);
+
+
 
 

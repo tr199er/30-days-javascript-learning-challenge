@@ -77,32 +77,36 @@
 // console.log(mid);
 
 
-var min = Array("malik", "fuad", "maaz");
-console.log(min);
+// var min = Array("malik", "fuad", "maaz");
+// console.log(min);
 
-const arr = ["a","1","2"];
-console.log('arr:arr', arr.length);
-
-
-var noteBook = "hello,world";
-console.log(noteBook.split(','));
+// const arr = ["a","1","2"];
+// console.log('arr:arr', arr.length);
 
 
-var letGo = [
-    "help",
-    "sorry",
-    "please",
-    "forgive me",
-    "Thanks you"
-]
-var check = letGo.indexOf("pardon me ");
-if (check == -1) {
-    console.log("this item does not belong here");
+// var noteBook = "hello,world";
+// console.log(noteBook.split(','));
+
+
+// var letGo = [
+//     "help",
+//     "sorry",
+//     "please",
+//     "forgive me",
+//     "Thanks you"
+// ]
+
+
+
+// // checking if an item belong to an array
+// var check = letGo.indexOf("pardon me ");
+// if (check == -1) {
+//     console.log("this item does not belong here");
     
-} else {
-    console.log("you're at the right place");
+// } else {
+//     console.log("you're at the right place");
     
-};
+// };
 
 // console.log(letGo.length);
 // console.log(letGo[0]);
@@ -115,4 +119,54 @@ if (check == -1) {
 
 
 
-const malikData = []
+// const malikData = []
+
+
+//EXERCISE---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+// /*1 */ var emptyArr = Array();
+
+// var anArrayWithFiveElement = ["hello", 1, 2, 5.2, "yoo"];
+
+// console.log(anArrayWithFiveElement.length);
+// console.log(anArrayWithFiveElement[0]);
+// console.log(anArrayWithFiveElement[anArrayWithFiveElement.length-1]);
+// console.log(anArrayWithFiveElement[2]);
+
+
+// let itCompanies =["facebook","Google", "Microsoft", "Apple", "IBM", "Oracle", "Amazon"];
+
+// console.log(itCompanies);
+
+
+
+// console.log(itCompanies.sort());
+// console.log(itCompanies.reverse());
+
+
+// var confirmation = itCompanies.indexOf("note");
+
+// if (confirmation == -1){
+//     console.log("A company not found");
+    
+// } else {
+//     console.log(" The company");
+    
+// };
+
+
+
+// var numberOf = itCompanies.length;
+
+// console.log(itCompanies[0]);
+// console.log(itCompanies[numberOf - 1]);
+// console.log(itCompanies.join(",").toUpperCase().split(","));
+// console.log(itCompanies.join(",") + " " + "are big companies");
+
+
+
+
+
+//EXERCISE LEVEL 2ss
+
+

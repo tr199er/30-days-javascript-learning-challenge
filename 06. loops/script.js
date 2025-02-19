@@ -39,10 +39,9 @@
 
 //   }else {
 //     console.log(y);
-    
+
 //   }
 // };
-
 
 //WHILE LOOP
 // let a = 0;
@@ -58,8 +57,6 @@
 //   b--;
 // } while (b >= 0);
 
-
-
 //FOR OF
 //We use for of for array
 
@@ -67,20 +64,25 @@
 
 // for (let name of names){
 //   console.log(name.toUpperCase());
-  
+
 // };
-
-
 
 //Break
 
-for ( x = 1; x <= 20 - 1; x++){
+// for ( x = 1; x <= 20 - 1; x++){
 
-  console.log(x);
-  if (x % 7 === 0){
-    console.log("Found it");
-    break;
-  } 
+//   console.log(x);
+//   if (x % 7 === 0){
+//     console.log("Found it");
+//     break;
+//   }
+// }
+
+//EXERCISE level 1
+
+let pattern = "";
+
+for (x = 0; x <= 7; x++) {
+  pattern += "#";
+  console.log(pattern);
 }
-
-

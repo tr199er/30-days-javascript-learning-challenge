@@ -18,11 +18,10 @@
 // Array, length, concat,
 // indexOf, slice, splice,
 // join, toString, includes,
-// lastIndexOf, isArray, fill, 
+// lastIndexOf, isArray, fill,
 // push, pop, shift,
 // unshift
 //   */
-
 
 // // let empArr = array();
 // // console.log(empArr);
@@ -64,18 +63,11 @@
 
 // const allProf = [0, 9, 8, [7, 6, 5, [4, 3, 2]], 1];
 
-
-
-
-
-
-
 // //PROJECT
 // const coderList = [];
 
 // var mid = [1,2,"D",9];
 // console.log(mid);
-
 
 // var min = Array("malik", "fuad", "maaz");
 // console.log(min);
@@ -83,10 +75,8 @@
 // const arr = ["a","1","2"];
 // console.log('arr:arr', arr.length);
 
-
 // var noteBook = "hello,world";
 // console.log(noteBook.split(','));
-
 
 // var letGo = [
 //     "help",
@@ -96,16 +86,14 @@
 //     "Thanks you"
 // ]
 
-
-
 // // checking if an item belong to an array
 // var check = letGo.indexOf("pardon me ");
 // if (check == -1) {
 //     console.log("this item does not belong here");
-    
+
 // } else {
 //     console.log("you're at the right place");
-    
+
 // };
 
 // console.log(letGo.length);
@@ -113,14 +101,7 @@
 // console.log(letGo[letGo.length - 1]);
 // console.log(letGo);
 
-
-
-
-
-
-
 // const malikData = []
-
 
 //EXERCISE---------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -133,28 +114,22 @@
 // console.log(anArrayWithFiveElement[anArrayWithFiveElement.length-1]);
 // console.log(anArrayWithFiveElement[2]);
 
-
 // let itCompanies =["facebook","Google", "Microsoft", "Apple", "IBM", "Oracle", "Amazon"];
 
 // console.log(itCompanies);
 
-
-
 // console.log(itCompanies.sort());
 // console.log(itCompanies.reverse());
-
 
 // var confirmation = itCompanies.indexOf("note");
 
 // if (confirmation == -1){
 //     console.log("A company not found");
-    
+
 // } else {
 //     console.log(" The company");
-    
+
 // };
-
-
 
 // var numberOf = itCompanies.length;
 
@@ -163,15 +138,7 @@
 // console.log(itCompanies.join(",").toUpperCase().split(","));
 // console.log(itCompanies.join(",") + " " + "are big companies");
 
-
-
-
-
 //EXERCISE LEVEL 2
 
 console.log(countries);
 console.log(webTechs);
-
-
-
-

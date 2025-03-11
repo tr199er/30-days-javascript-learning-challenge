@@ -9,3 +9,21 @@ if (test >= 18) {
 } else {
   console.log("An underage ");
 }
+
+let day = "monday";
+
+switch (day) {
+  case "monday":
+    console.log("Beginning of the week");
+
+    break;
+  case "friday":
+    console.log("Weekend is near");
+
+    break;
+
+  default:
+    console.log("It a normal day");
+
+    break;
+}
